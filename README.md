@@ -12,3 +12,5 @@ Consists of the following pages -
 
 Authentication is also there to see if the details like username and password entered are all correct and present in the database.
 Authorization is also there which only gives the user the authority to edit or delete a campground if and only if it is uploaded by the same person.
+
+Also deployed on Heroku - https://guarded-earth-72675.herokuapp.com/
