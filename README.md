@@ -2,6 +2,7 @@
 A full stack website designed especially for campers
 This Project is build using HTML,CSS and Javascript for frontend and Node.js and it's frame works for backend. MongoDb is used as the Database which is located at MongoDB atlas instead of local machine.
 
+Consists of the following pages - 
 1. Home page
 2. Login page
 3. Sign Up page
