@@ -1,4 +1,6 @@
 # Camper-Field
+Deployed on Heroku - https://guarded-earth-72675.herokuapp.com/
+
 A full stack website designed especially for campers
 This Project is build using HTML,CSS and Javascript for frontend and Node.js and it's frame works for backend. MongoDb is used as the Database which is located at MongoDB atlas instead of local machine.
 
@@ -13,4 +15,4 @@ Consists of the following pages -
 Authentication is also there to see if the details like username and password entered are all correct and present in the database.
 Authorization is also there which only gives the user the authority to edit or delete a campground if and only if it is uploaded by the same person.
 
-Also deployed on Heroku - https://guarded-earth-72675.herokuapp.com/
+
